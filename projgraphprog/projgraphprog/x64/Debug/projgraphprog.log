@@ -1,0 +1,3 @@
+﻿  projgraphprog.cpp
+LINK : warning LNK4098: conflit entre la bibliothèque par défaut 'MSVCRT' et les autres bibliothèques ; utilisez /NODEFAULTLIB:library
+  projgraphprog.vcxproj -> C:\Users\alexa\source\repos\projgraphprog\x64\Debug\projgraphprog.exe
